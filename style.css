@@ -21,10 +21,8 @@ figcaption {
 }
 
 nav a {
-  
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0 10px;
+  margin-left: 10px;
+  margin-right: 10px;
   background-color: pink;
 }
 
