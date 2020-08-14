@@ -25,3 +25,8 @@ a {
   margin-right: 10px;
   background-color: gray;
 }
+
+#featured-properties ~ p {
+  width: 900px;
+  text-align: center;
+}
