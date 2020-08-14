@@ -16,12 +16,12 @@ img {
 }
 
 figcaption {
-  font-size: 12px;
   text-align: center;
+  font-size: 12px;
 }
 
 nav > a {
-  
+
   background-color: pink;
   text-align: center;
 }
