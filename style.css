@@ -20,15 +20,9 @@ figcaption {
   text-align: center;
 }
 
-nav > a {
-  margin-left: 10px;
-  margin-right: 10px;
-  position: relative;
-  top: 0;
-  left: 0;
-  transform: none;
+nav a {
+  padding: 0 10px;
   background-color: pink;
-  text-align: center;
 }
 
 #featured-properties > p {
