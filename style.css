@@ -21,8 +21,7 @@ figcaption {
 }
 
 nav > a {
-  margin-left: 10px;
-  margin-right: 10px;
+  
   background-color: pink;
   text-align: center;
 }
