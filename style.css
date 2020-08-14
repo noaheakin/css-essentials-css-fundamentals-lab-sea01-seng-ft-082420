@@ -26,7 +26,7 @@ a {
   background-color: gray;
 }
 
-#featured-properties ~ p {
+#featured-properties > p {
   width: 900px;
   text-align: center;
 }
